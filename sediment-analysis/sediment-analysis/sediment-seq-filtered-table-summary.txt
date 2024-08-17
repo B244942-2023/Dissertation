@@ -1,0 +1,19 @@
+Num samples: 4
+Num observations: 2,833
+Total count: 279,078
+Table density (fraction of non-zero values): 0.283
+
+Counts/sample summary:
+ Min: 5,025.000
+ Max: 244,225.000
+ Median: 14,914.000
+ Mean: 69,769.500
+ Std. dev.: 100,856.280
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: None provided
+
+Counts/sample detail:
+LBS: 5,025.000
+BHBS: 10,270.000
+BPS: 19,558.000
+ISED: 244,225.000
